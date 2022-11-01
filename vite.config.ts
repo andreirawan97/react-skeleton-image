@@ -21,9 +21,9 @@ export default defineConfig({
     lib: {
       // Could also be a dictionary or array of multiple entry points
       entry: resolve(__dirname, "src/index.ts"),
-      name: "React Library Template",
+      name: "React Skeleton Image",
       // the proper extensions will be added
-      fileName: "react-library-template",
+      fileName: "react-skeleton-image",
     },
     rollupOptions: {
       // make sure to externalize deps that shouldn't be bundled

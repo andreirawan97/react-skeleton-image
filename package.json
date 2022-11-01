@@ -1,7 +1,16 @@
 {
-  "name": "react-library-template",
+  "name": "react-skeleton-image",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "repository": "https://github.com/andreirawan97/react-skeleton-image",
+  "author": "Andre Irawan <andreirawan.dev>",
+  "keywords": [
+    "skeleton",
+    "image",
+    "react",
+    "react-skeleton-image",
+    "react skeleton image"
+  ],
   "type": "module",
   "scripts": {
     "dev": "vite",
